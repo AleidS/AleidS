@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm Aleid, a starting front-end developer
+I'm Aleid, a starting front-end developer.
+You can find my portfolio here:
+https://www.aleidsuzan.com/portfolio
+![image](https://github.com/AleidS/AleidS/assets/84040857/f565e1d1-293a-45d3-9ea1-25f226c6a732)
 
 [![Aleids's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleidS&show_icons=true&theme=dark)](https://github.com/AleidS/github-readme-stats)
 

@@ -2,7 +2,7 @@
 
 I'm Aleid, a starting front-end developer
 
-[![Aleids's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleidS)](https://github.com/AleidS/github-readme-stats)
+[![Aleids's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleidS)](https://github.com/AleidS/github-readme-stats&show_icons=true&theme=radical))
 
 
 <!--

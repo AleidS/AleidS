@@ -6,8 +6,9 @@ https://www.aleidsuzan.com/portfolio
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleidS&show_icons=true&theme=dark&layout=compact)](https://github.com/AleidS/github-readme-stats)
 
+<!---
 [![Aleids's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleidS&show_icons=true&theme=dark)](https://github.com/AleidS/github-readme-stats)
-
+-->
 <!---
 Recipe website in React (2022 + refactor):
 <br/>

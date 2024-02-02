@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Aleid, a starting front-end developer
+
+[![Aleids's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleidS)](https://github.com/AleidS/github-readme-stats)
+
+
 <!--
 **AleidS/AleidS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
